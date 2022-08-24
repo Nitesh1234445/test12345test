@@ -1,10 +1,7 @@
-
 #include<stdio.h>
-
 int main()
 
 {
-    printf("hello students");
-
+    printf("%%d");
     return 0;
 }
